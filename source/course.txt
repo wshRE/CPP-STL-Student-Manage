@@ -1,0 +1,996 @@
+16位微机 16 Digit Microcomputer 
+ALGOL语言 ALGOL Language 
+BASIC 语言 BASIC Language 
+BASIC 语言及应用 BASIC Language & Application 
+C 语言 C Language 
+CAD 概论 Introduction to CAD 
+CAD/CAM CAD/CAM 
+COBOL语言 COBOL Language 
+COBOL语言程序设计 COBOL Language Program Designing 
+C与UNIX环境 C Language & Unix Environment 
+C语言与生物医学信息处理 C Language & Biomedical Information Processing 
+dBASE Ⅲ课程设计 C ourse Exercise in dBASE Ⅲ 
+FORTRAN语言 FORTRAN Language 
+IBM-PC/XT Fundamentals of Microcomputer IBM-PC/XT 
+IBM-PC微机原理 Fundamentals of Microcomputer IBM-PC 
+LSI设计基础 Basic of LSI Designing 
+PASCAL大型作业 PASCAL Wide Range Working 
+PASCAL课程设计 Course Exercise in PASCAL 
+X射线与电镜 X-ray & Electric Microscope 
+Z-80汇编语言程序设计 Z-80 Pragramming in Assembly Languages 
+板壳理论 Plate Theory 
+板壳力学 Plate Mechanics 
+半波实验 Semiwave Experiment 
+半导体变流技术 Semiconductor Converting Technology 
+半导体材料 Semiconductor Materials 
+半导体测量 Measurement of Semiconductors 
+半导体瓷敏元件 Semiconductor Porcelain-Sensitive Elements 
+半导体光电子学 Semiconductor Optic Electronics 
+半导体化学 Semiconductor Chemistry 
+半导体激光器 Semiconductor Laser Unit 
+半导体集成电路 Semiconductor Integrated Circuitry 
+半导体理论 Semiconductive Theory 
+半导体器件 Semiconductor Devices 
+半导体器件工艺原理 Technological Fundamentals of Semiconductor Device 
+半导体物理 Semiconductor Physics 
+半导体专业 Semiconduction Specialty 
+半导体专业实验 Specialty Experiment of Semiconductor 
+薄膜光学 Film Optics 
+报告文学专题 Special Subject On Reportage 
+报刊编辑学 Newspaper & Magazine Editing 
+报纸编辑学 Newspaper Editing 
+泵与风机 Pumps and Fans 
+泵与水机 Pumps & Water Turbines 
+毕业设计 Graduation Thesis 
+编译方法 Methods of Compiling 
+编译技术 Technique of Compiling 
+编译原理 Fundamentals of Compiling 
+变电站的微机检测与控制 Computer Testing & Control in Transformer Substation 
+变分法与张量 Calculus of Variations & Tensor 
+变分学 Calculus of Variations 
+变质量系统热力学与新型回转压 Variable Quality System Thermal Mechanics & Neo-Ro 
+表面活性物质 Surface Reactive Materials 
+并行算法 Parallel Algorithmic 
+波谱学 Wave Spectrum 
+材料的力学性能测试 Measurement of Material Mechanical Performance 
+材料力学 Mechanics of Materials 
+财务成本管理 Financial Cost Management 
+财政学 Public Finance 
+财政与金融 Finance & Banking 
+财政与信贷 Finance & Credit 
+操作系统 Disk Operating System 
+操作系统课程设计 Course Design in Disk Operating System 
+操作系统原理 Fundamentals of Disk Operating System 
+策波测量技术 Technique of Whip Wave Measurement 
+测量原理与仪器设计 Measurement Fundamentals & Meter Design 
+测试技术 Testing Technology 
+测试与信号变换处理 Testing & Signal Transformation Processing 
+产业经济学 Industrial Economy 
+产业组织学 Industrial Organization Technoooligy 
+场论 Field Theory 
+常微分方程 Ordinary Differentical Equations 
+超导磁体及应用 Superconductive Magnet & Application 
+超导及应用 Superconductive & Application 
+超精微细加工 Super-Precision & Minuteness Processing 
+城市规划原理 Fundamentals of City Planning 
+城市社会学 Urban Sociology 
+成组技术 Grouping Technique 
+齿轮啮合原理 Principles of Gear Connection 
+冲击测量及误差 Punching Measurement & Error 
+冲压工艺 Sheet Metal Forming Technology 
+抽象代数 Abstract Algebra 
+传动概论 Introduction to Transmission 
+传感器与检测技术 Sensors & Testing Technology 
+传感器原理 Fundamentals of Sensors 
+传感器原理及应用 Fundamentals of Sensors & Application 
+传热学 Heat Transfer 
+传坳概论 Introduction to Pass Col 
+船舶操纵 Ship Controling 
+船舶电力系统 Ship Electrical Power System 
+船舶电力系统课程设计 Course Exercise in Ship Electrical Power System 
+船舶电气传动自动化 Ship Electrified Transmission Automation 
+船舶电站 Ship Power Station 
+船舶动力装置 Ship Power Equipment 
+船舶概论 Introduction to Ships 
+船舶焊接与材料 Welding & Materials on Ship 
+船舶机械控制技术 Mechanic Control Technology for Ships 
+船舶机械拖动 Ship Mechamic Towage 
+船舶建筑美学 Artistic Designing of Ships 
+船舶结构力学 Structual Mechamics for Ships 
+船舶结构与制图 Ship Structure & Graphing 
+船舶静力学 Ship Statics 
+船舶强度与结构设计 Designing Ship Intensity & Structure 
+船舶设计原理 Principles of Ship Designing 
+船舶推进 Ship Propeling 
+船舶摇摆 Ship Swaying 
+船舶阻力 Ship Resistance 
+船体建造工艺 Ship-Building Technology 
+船体结构 Ship Structure 
+船体结构图 Ship Structure Graphing 
+船体振动学 Ship Vibration 
+创造心理学 Creativity Psychology 
+磁测量技术 Magnetic Measurement Technology 
+磁传感器 Magnetic Sensor 
+磁存储设备设计原理 Fundamental Design of Magnetic Memory Equipment 
+磁记录技术 Magnetographic Technology 
+磁记录物理 Magnetographic Physics 
+磁路设计与场计算 Magnetic Path Designing & Magnetic Field Calculati 
+磁盘控制器 Magnetic Disk Controler 
+磁性材料 Magnetic Materials 
+磁性测量 Magnetic Measurement 
+磁性物理 Magnetophysics 
+磁原理及应用 Principles of Catalyzation & Application 
+大电流测量 Super-Current Measurement 
+大电源测量 Super-Power Measurement 
+大机组协调控制 Coordination & Control of Generator Networks 
+大跨度房屋结构 Large-Span House structure 
+大型锅炉概况 Introduction to Large-Volume Boilers 
+大型火电机组控制 Control of Large Thermal Power Generator Networks 
+大学德语 College German 
+大学俄语 College Russian 
+大学法语 College French 
+大学日语 College Japanese 
+大学英语 College English 
+大学语文 College Chinese 
+大众传播学 Mass Media 
+代用运放电路 Simulated Transmittal Circuit 
+单片机原理 Fundamentals of Mono-Chip Computers 
+单片机原理及应用 Fundamentals of Mono-Chip Computers & Applications 
+弹性力学 Theory of Elastic Mechanics 
+当代国际关系 Contemporary International Relationship 
+当代国外社会思维评价 Evaluation of Contemporary Foreign Social Thought 
+当代文学 Contemporary Literature 
+当代文学专题 Topics on Contemporary Literature 
+当代西方哲学 Contemporary Western Philosophy 
+当代戏剧与电影 Contemporary Drama & Films 
+党史 History of the Party 
+导波光学 Wave Guiding Optics 
+等离子体工程 Plasma Engineering 
+低频电子线路 Low Frequency Electric Circuit 
+低温传热学 Cryo Conduction 
+低温固体物理 Cryo Solid Physics 
+低温技术原理与装置 Fundamentals of Cryo Technology & Equipment 
+低温技术中的微机原理 Priciples of Microcomputer in Cryo Technology 
+低温绝热 Cryo Heat Insulation 
+低温气体制冷机 Cryo Gas Refrigerator 
+低温热管 Cryo Heat Tube 
+低温设备 Cryo Equipment 
+低温生物冻干技术 Biological Cryo Freezing Drying Technology 
+低温实验技术 Cryo Experimentation Technology 
+低温物理导论 Cryo Physic Concepts 
+低温物理概论 Cryo Physic Concepts 
+低温物理概念 Cryo Physic Concepts 
+低温仪表及测试 Cryo Meters & Measurement 
+低温原理 Cryo Fundamentals 
+低温中的微机应用 Application of Microcomputer in Cryo Technology 
+低温装置 Cryo Equipment 
+低噪声电子电路 Low-Noise Electric Circuit 
+低噪声电子设计 Low-Noise Electronic Designing 
+低噪声放大与弱检 Low-Noise Increasing & Decreasing 
+低噪声与弱信号检测 Detection of Low Noise & Weak Signals 
+地理 Geography 
+第二次世界大战史 History of World War II 
+电测量技术 Electric Measurement Technology 
+电厂计算机控制系统 Computer Control System in Power Plants 
+电磁测量实验技术 Electromagnetic Measurement Experiment & Technology 
+电磁场计算机 Electromagnetic Field Computers 
+电磁场理论 Theory of Electromagnetic Fields 
+电磁场数值计算 Numerical Calculation of Electromagnetic Fields 
+电磁场与电磁波 Electromagnetic Fields & Magnetic Waves 
+电磁场与微波技术 Electromagnetic Fields & Micro-Wave Technology 
+电磁场中的数值方法 Numerical Methods in Electromagnetic Fields 
+电磁场中的数值计算 Numerical Calculation in Electromagnetic Fields 
+电磁学 Electromagnetics 
+电动力学 Electrodynamics 
+电镀 Plating 
+电分析化学 Electro-Analytical Chemistry 
+电工测试技术基础 Testing Technology of Electrical Engineering 
+电工产品学 Electrotechnical Products 
+电工电子技术基础 Electrical Technology & Electrical Engineering 
+电工电子学 Electronics in Electrical Engineering 
+电工基础 Fundamental Theory of Electrical Engineering 
+电工基础理论 Fundamental Theory of Electrical Engineering 
+电工基础实验 Basic Experiment in Electrical Engineering 
+电工技术 Electrotechnics 
+电工技术基础 Fundamentals of Electrotechnics 
+电工实习 Electrical Engineering Practice 
+电工实验技术基础 Experiment Technology of Electrical Engineering 
+电工学 Electrical Engineering 
+电工与电机控制 Electrical Engineering & Motor Control 
+电弧电接触 Electrical Arc Contact 
+电弧焊及电渣焊 Electric Arc Welding & Electroslag Welding 
+电化学测试技术 Electrochemical Measurement Technology 
+电化学工程 Electrochemical Engineering 
+电化学工艺学 Electrochemical Technology 
+电机测试技术 Motor Measuring Technology 
+电机电磁场的分析与计算 Analysis & Calculation of Electrical Motor & 
+Electromagnetic Fields 
+电机电器与供电 Motor Elements and Power Supply 
+电机课程设计 Course Exercise in Electric Engine 
+电机绕组理论 Theory of Motor Winding 
+电机绕组理论及应用 Theory & Application of Motor Winding 
+电机设计 Design of Electrical Motor 
+电机瞬变过程 Electrical Motor Change Processes 
+电机学 Electrical Motor 
+电机学及控制电机 Electrical Machinery Control & Technology 
+电机与拖动 Electrical Machinery & Towage 
+电机原理 Principle of Electric Engine 
+电机原理与拖动 Principles of Electrical Machinery & Towage 
+电机专题 Lectures on Electric Engine 
+电接触与电弧 Electrical Contact & Electrical Arc 
+电介质物理 Dielectric Physics 
+电镜 Electronic Speculum 
+电力电子电路 Power Electronic Circuit 
+电力电子电器 Power Electronic Equipment 
+电力电子器件 Power Electronic Devices 
+电力电子学 Power Electronics 
+电力工程 Electrical Power Engineering 
+电力生产技术 Technology of Electrical Power Generation 
+电力生产优化管理 Optimal Management of Electrical Power Generation 
+电力拖动基础 Fundamentals for Electrical Towage 
+电力拖动控制系统 Electrical Towage Control Systems 
+电力系统 Power Systems 
+电力系统电源最优化规划 Optimal Planning of Power Source in a Power System 
+电力系统短路 Power System Shortcuts 
+电力系统分析 Power System Analysis 
+电力系统规划 Power System Planning 
+电力系统过电压 Hyper-Voltage of Power Systems 
+电力系统继电保护原理 Power System Relay Protection 
+电力系统经济分析 Economical Analysis of Power Systems 
+电力系统经济运行 Economical Operation of Power Systems 
+电力系统可靠性 Power System Reliability 
+电力系统可靠性分析 Power System Reliability Analysis 
+电力系统无功补偿及应用 Non-Work Compensation in Power Systems & Applicati 
+电力系统谐波 Harmonious Waves in Power Systems 
+电力系统优化技术 Optimal Technology of Power Systems 
+电力系统优化设计 Optimal Designing of Power Systems 
+电力系统远动 Operation of Electric Systems 
+电力系统远动技术 Operation Technique of Electric Systems 
+电力系统运行 Operation of Electric Systems 
+电力系统自动化 Automation of Electric Systems 
+电力系统自动装置 Power System Automation Equipment 
+电路测试技术 Circuit Measurement Technology 
+电路测试技术基础 Fundamentals of Circuit Measurement Technology 
+电路测试技术及实验 Circuit Measurement Technology & Experiments 
+电路分析基础 Basis of Circuit Analysis 
+电路分析基础实验 Basic Experiment on Circuit Analysis 
+电路分析实验 Experiment on Circuit Analysis 
+电路和电子技术 Circuit and Electronic Technique 
+电路理论 Theory of Circuit 
+电路理论基础 Fundamental Theory of Circuit 
+电路理论实验 Experiments in Theory of Circuct 
+电路设计与测试技术 Circuit Designing & Measurement Technology 
+电器学 Electrical Appliances 
+电器与控制 Electrical Appliances & Control 
+电气控制技术 Electrical Control Technology 
+电视接收技术 Television Reception Technology 
+电视节目 Television Porgrams 
+电视节目制作 Television Porgram Designing 
+电视新技术 New Television Technology 
+电视原理 Principles of Television 
+电网调度自动化 Automation of Electric Network Management 
+电影艺术 Art of Film Making 
+电站微机检测控制 Computerized Measurement & Control of Power Statio 
+电子材料与元件测试技术 Measuring Technology of Electronic Material and 
+Element 
+电子材料元件 Electronic Material and Element 
+电子材料元件测量 Electronic Material and Element Measurement 
+电子测量与实验技术 Technology of Electronic Measurement & Experiment 
+电子测试 Electronic Testing 
+电子测试技术 Electronic Testing Technology 
+电子测试技术与实验 Electronic Testing Technology & Experiment 
+电子机械运动控制技术 Technology of Electronic Mechanic Movement Control 
+电子技术 Technology of Electronics 
+电子技术腐蚀测试中的应用 Application of Electronic Technology in Erosion 
+Measurement 电子技术基础 Basic Electronic Technology 
+电子技术基础与实验 Basic Electronic Technology & Experiment 
+电子技术课程设计 Course Exercise in Electronic Technology 
+电子技术实验 Experiment in Electronic Technology 
+电子理论实验 Experiment in Electronic Theory 
+电子显微分析 Electronic Micro-Analysis 
+电子显微镜 Electronic Microscope 
+电子线路 Electronic Circuit 
+电子线路设计与测试技术 Electronic Circuit Design & Measurement Technology 
+电子线路实验 Experiment in Electronic Circuit 
+电子照相技术 Electronic Photographing Technology 
+雕塑艺术欣赏 Appreciation of Sculptural Art 
+调节装置 Regulation Equipment 
+动态规划 Dynamic Programming 
+动态无损检测 Dynamic Non-Destruction Measurement 
+动态信号分析与仪器 Dynamic Signal Analysis & Apparatus 
+锻压工艺 Forging Technology 
+锻压机械液压传动 Hydraulic Transmission in Forging Machinery 
+锻压加热设备 Forging Heating Equipment 
+锻压设备专题 Lectures on Forging Press Equipments 
+锻压系统动力学 Dynamics of Forging System 
+锻造工艺 Forging Technology 
+断裂力学 Fracture Mechanics 
+对外贸易概论 Introduction to International Trade 
+多层网络方法 Multi-Layer Network Technology 
+多目标优化方法 Multipurpose Optimal Method 
+多项距阵 Multi-Nominal Matrix 
+多元统计分析 Multi-Variate Statistical Analysis 
+发电厂 Power Plant 
+发电厂电气部分 Electric Elements of Power Plants 
+法律基础 Fundamentals of Law 
+法学概论 An Introduction to Science of Law 
+法学基础 Fundamentals of Science of Law 
+翻译 Translation 
+翻译理论与技巧 Theory & Skills of Translation 
+泛函分析 Functional Analysis 
+房屋建筑学 Architectural Design & Construction 
+非电量测量 Non-Electricity Measurement 
+非金属材料 Non-Metal Materials 
+非线性采样系统 Non-Linear Sampling System 
+非线性光学 Non-Linear Optics 
+非线性规划 Non-Linear Programming 
+非线性振荡 Non-Linear Ocsillation 
+非线性振动 Non-Linear Vibration 
+沸腾燃烧 Boiling Combustion 
+分析化学 Analytical Chemistry 
+分析化学实验 Analytical Chemistry Experiment 
+分析力学 Analytical Mechanics 
+风机调节 Fan Regulation 
+风机调节.使用.运转 Regulation,Application & Operation of Fans 
+风机三元流动理论与设计 Tri-Variate Movement Theory & Design of Fans 
+风能利用 Wind Power Utilization 
+腐蚀电化学实验 Experiment in Erosive Electrochemistry 
+复变函数 Complex Variables Functions 
+复变函数与积分变换 Functions of Complex Variables & Integral Transformation 
+复合材料力学 Compound Material Mechanics 
+傅里叶光学 Fourier Optics 
+概率论 Probability Theory 
+概率论与数理统计 Probability Theory & Mathematical Statistics 
+概率论与随机过程 Probability Theory & Stochastic Process 
+钢笔画 Pen Drawing 
+钢的热处理 Heat-Treatment of Steel 
+钢结构 Steel Structure 
+钢筋混凝土 Reinforced Concrete 
+钢筋混凝土及砖石结构 Reinforced Concrete & Brick Structure 
+钢砼结构 Reinforced Concrete Structure 
+高层建筑基础设计 Designing bases of High Rising Buildings 
+高层建筑结构设计 Designing Structures of High Rising Buildings 
+高等材料力学 Advanced Material Mechanics 
+高等代数 Advanced Algebra 
+高等教育管理 Higher Education Management 
+高等教育史 History of Higher Education 
+高等教育学 Higher Education 
+高等数学 Advanced Mathematics 
+高电压技术 High-Voltage Technology 
+高电压测试技术 High-Voltage Test Technology 
+高分子材料 High Polymer Material 
+高分子材料及加工 High Polymer Material & Porcessing 
+高分子化学 High Polymer Chemistry 
+高分子化学实验 High Polymer Chemistry Experiment 
+高分子物理 High Polymer Physics 
+高分子物理实验 High Polymer Physics Experiment 
+高级英语听说 Advanced English Listening & Speaking 
+高能密束焊 High Energy-Dense Beam Welding 
+高频电路 High-Frenquency Circuit 
+高频电子技术 High-Frenquency Electronic Technology 
+高频电子线路 High-Frenquency Electronic Circuit 
+高压测量技术 High-Voltage Measurement Technology 
+高压测试技术 High-Voltage Testing Technology 
+高压电场的数值计算 Numerical Calculation in High-Voltage Electronic Field 
+高压电器 High-Voltage Electrical Appliances 
+高压绝缘 High-Voltage Insulation 
+高压实验 High-Voltage Experimentation 
+高压试验技术 High-Voltage Experimentation Technology 
+工程材料的力学性能测试 Mechanic Testing of Engineering Materials 
+工程材料及热处理 Engineering Material and Heat Treatment 
+工程材料学 Engineering Materials 
+工程测量 Engineering Surveying 
+工程测试技术 Engineering Testing Technique 
+工程测试实验 Experiment on Engineering Testing 
+工程测试信息 Information of Engineering Testing 
+工程动力学 Engineering Dynamics 
+工程概论 Introduction to Engineering 
+工程概预算 Project Budget 
+工程经济学 Engineering Economics 
+工程静力学 Engineering Statics 
+工程力学 Engineering Mechanics 
+工程热力学 Engineering Thermodynamics 
+工程项目评估 Engineering Project Evaluation 
+工程优化方法 Engineering Optimizational Method 
+工程运动学 Engineering Kinematics 
+工程造价管理 Engineering Cost Management 
+工程制图 Graphing of Engineering 
+工业分析 Industrial Analysis 
+工业锅炉 Industrial Boiler 
+工业会计学 Industrial Accounting 
+工业机器人 Industrial Robot 
+工业技术基础 Basic Industrial Technology 
+工业建筑设计原理 Principles of Industrial Building Design 
+工业经济理论 Industrial Economic Theory 
+工业经济学 Industrial Economics 
+工业企业财务管理 Industrial Enterprise Financial Management 
+工业企业财务会计 Accounting in Industrial Enterprises 
+工业企业管理 Industrial Enterprise Management 
+工业企业经营管理 Industrial Enterprise Adminstrative Management 
+工业社会学 Industrial Sociology 
+工业心理学 Industrial Psychology 
+工业窑炉 Industrial Stoves 
+工艺过程自动化 Technics Process Automation 
+公差 Common Difference 
+公差技术测量 Technical Measurement with Common Difference 
+公差与配合 Common Difference & Cooperation 
+公共关系学 Public Relations 
+公文写作 Document Writing 
+古代汉语 Ancient Chinese 
+古典文学作品选读 Selected Readings in Classical Literature 
+固体激光 Solid State Laser 
+固体激光器件 Solid Laser Elements 
+固体激光与电源 Solid State Laser & Power Unit 
+固体物理 Solid State Physics 
+管理概论 Introduction to Management 
+管理经济学 Management Economics 
+管理数学 Management Mathematics 
+管理系统模拟 Management System Simulation 
+管理心理学 Management Psychology 
+管理信息系统 Management Information Systems 
+光波导理论 Light Wave Guide Theory 
+光电技术 Photoelectric Technology 
+光电信号处理 Photoelectric Signal Processing 
+光电信号与系统分析 Photoelectric Signal & Systematic Analysis 
+光辐射探测技术 Ray Radiation Detection Technology 
+光谱 Spectrum 
+光谱分析 Spectral Analysis 
+光谱学 Spectroscopy 
+光纤传感 Fibre Optical Sensors 
+光纤传感器 Fibre Optical Sensors 
+光纤传感器基础 Fundamentals of Fibre Optical Sensors 
+光纤传感器及应用 Fibre Optical Sensors & Applications 
+光纤光学课程设计 Course Design of Fibre Optical 
+光纤技术实验 Experiments in Fibre Optical Technology 
+光纤通信基础 Basis of Fibre Optical Communication 
+光学 Optics 
+光学测量 Optical Measurement 
+光学分析法 Optical Analysis Method 
+光学计量仪器设计 Optical Instrument Gauge Designing 
+光学检测 Optical Detection 
+光学设计 Optical Design 
+光学信息导论 Introduction of Optical Infomation 
+光学仪器设计 Optical Instrument Designing 
+光学仪器与计量仪器设计 Optical Instrument & Gauge Instrument Designing 
+光学仪器装配与校正 Optical Instrument Installation & Adjustment 
+广播编辑学 Broadcast Editing 
+广播新闻 Broadcast Journalism 
+广播新闻采写 Broadcast Journalism Collection & Composition 
+广告学 Advertisement 
+锅炉燃烧理论 Theory of Boiler Combustion 
+锅炉热交换传热强化 Boiler Heat Exchange,Condction & Intensification 
+锅炉原理 Principles of Boiler 
+国际金融 International Finance 
+国际经济法 International Economic Law 
+国际贸易 International Trade 
+国际贸易地理 International Trade Geography 
+国际贸易实务 International Trade Affairs 
+国际市场学 International Marketing 
+国际市场营销 International Marketing 
+国民经济计划 National Economical Planning 
+国外社会学理论 Overseas Theories of Sociology 
+过程(控制)调节装置 Process(Control) Adjustment Device 
+过程调节系统 Process Adjustment System 
+过程控制 Process Control 
+过程控制系统 Process Control System 
+海洋测量 Ocean Surveying 
+海洋工程概论 Introduction to Ocean Engineering 
+函数分析 Functional Analysis 
+焊接方法 Welding Method 
+焊接方法及设备 Welding Method & Equipment 
+焊接检验 Welding Testing 
+焊接结构 Welding Structure 
+焊接金相 Welding Fractography 
+焊接金相分析 Welding Fractography Analysis 
+焊接冶金 Welding Metallurgy 
+焊接原理 Fundamentals of Welding 
+焊接原理及工艺 Fundamentals of Welding & Technology 
+焊接自动化 Automation of Welding 
+汉语 Chinese 
+汉语与写作 Chinese & Composition 
+汉语语法研究 Research on Chinese Grammar 
+汉字信息处理技术 Technology of Chinese Information Processing 
+毫微秒脉冲技术 Millimicrosecond Pusle Technique 
+核动力技术 Nuclear Power Technology 
+合唱与指挥 Chorus & Conduction 
+合金钢 Alloy Steel 
+宏观经济学 Macro-Economics 
+宏微观经济学 Macro Micro Economics 
+红外CCD Infrared CCD 
+红外电荷耦合器 Infrared Electric Charge Coupler 
+红外探测器 Infrared Detectors 
+红外物理 Infrared Physics 
+红外物理与技术 Infrared Physics & Technology 
+红外系统 Infrared System 
+红外系统电信号处理 Processing Electric Signals from Infrared Systems 
+厚薄膜集成电路 Thick & Thin Film Integrated Circuit 
+弧焊电源 Arc Welding Power 
+弧焊原理 Arc Welding Principles 
+互换性技术测量基础 Basic Technology of Exchangeability Measurement 
+互换性技术测量 Technology of Exchangeability Measurement 
+互换性与技术测量 Elementary Technology of Exchangeability Measurement 
+互换性与技术测量实验 Experiment of Exchangeability Measurement Technology 
+画法几何及机械制图 Descriptive Geometry & Mechanical Graphing 
+画法几何与阴影透视 Descriptive Geometry,Shadow and Perspective 
+化工基础 Elementary Chemical Industry 
+化工仪表与自动化 Chemical Meters & Automation 
+化工原理 Principles of Chemical Industry 
+化学 Chemistry 
+化学反应工程 Chemical Reaction Engineering 
+化学分离 Chemical Decomposition 
+化学工程基础 Elementary Chemical Engineering 
+化学计量学 Chemical Measurement 
+化学文献 Chemical Literature 
+化学文献及查阅方法 Chemical Literature & Consulting Method 
+化学粘结剂 Chemical Felter 
+环境保护理论基础 Basic Theory of Environmental Protection 
+环境化学 Environomental Chemistry 
+环境行为概论 Introduction to Environmental Behavior 
+换热器 Thermal Transducer 
+回旧分析与试验设计 Tempering Analysis and Experiment Design 
+回转式压缩机 Rotary Compressor 
+回转压缩机数学模型 Mathematical Modeling of Rotary Compressors 
+会计学 Accountancy 
+会计与财务分析 Accountancy & Financial Analysis 
+会计与设备分析 Accountancy & Equipment Analysis 
+会计原理及外贸会计 Principles of Accountancy & Foreign Trade Accountancy 
+会计原理与工业会计 Principles of Accountancy & Industrial Accountancy 
+活力学 Energy Theory 
+活塞膨胀机 Piston Expander 
+活塞式制冷压缩机 Piston Refrigerant Compreessor 
+活塞式压缩机 Piston Compressor 
+活塞式压缩机基础设计 Basic Design of Piston Compressor 
+活塞压缩机结构强度 Structural Intensity of Piston Compressor 
+活赛压机气流脉动 Gas Pulsation of Piston Pressor 
+货币银行学 Currency Banking 
+基本电路理论 Basis Theory of Circuit 
+基础写作 Fundamental Course of Composition 
+机床电路 Machine Tool Circuit 
+机床电器 Machine Tool Electric Appliance 
+机床电气控制 Electrical Control of Machinery Tools 
+机床动力学 Machine Tool Dynamics 
+机床设计 Machine Tool design 
+机床数字控制 Digital Control of Machine Tool 
+机床液压传动 Machinery Tool Hydraulic Transmission 
+机电传动 Mechanical & Electrical Transmission 
+机电传动控制 Mechanical & electrical Transmission Control 
+机电耦合系统 Mechanical & Electrical Combination System 
+机电系统计算机仿真 Computer Simulation of Mechanic/Electrical Systems 
+机电一体化 Mechanical & Electrical Integration 
+机构学 Structuring 
+机器人 Robot 
+机器人控制技术 Robot Control Technology 
+机械产品学 Mechanic Products 
+机械产品造型设计 Shape Design of Mechanical Products 
+机械工程控制基础 Basic Mechanic Engineering Control 
+机械加工自动化 Automation in Mechanical Working 
+机械可靠性 Mechanical Reliability 
+机械零件 Mechanical Elements 
+机械零件设计 Course Exercise in Machinery Elements Design 
+机械零件设计基础 Basis of Machinery Elements Design 
+机械设计 Mechanical Designing 
+机械设计基础 Basis of Mechanical Designing 
+机械设计课程设计 Course Exercise in Mechanical Design 
+机械设计原理 Principle of Mechanical Designing 
+机械式信息传输机构 Mechanical Information Transmission Device 
+机械原理 Principle of Mechanics 
+机械原理和机械零件 Mechanism & Machinery 
+机械原理及机械设计 Mechanical Designing 
+机械原理及应用 Mechanical Principle & Mechanical Applications 
+机械原理课程设计 Course Exercise of Mechanical Principle 
+机械原理与机械零件 Mechanical Principle and Mechanical Elements 
+机械原理与机械设计 Mechanical Principle and Mechanical Design 
+机械噪声控制 Control of Mechanical Noise 
+机械制造概论 Introduction to Mechanical Manufacture 
+机械制造工艺学 Technology of Mechanical Manufacture 
+机械制造基础 Fundamental of Mechanical Manufacture 
+机械制造基础(金属工艺学) Fundamental Course of Mechanic Manufacturing (Meta 
+机械制造系统自动化 Automation of Mechanical Manufacture System 
+机械制造中计算机控制 Computer Control in Mechanical Manufacture 
+机制工艺及夹具 Mechanical Technology and Clamps 
+积分变换 Integral Transformation 
+积分变换及数理方程 Integral Transformation & Mathematical Equations 
+积分变换控制工程 Integral Transformation Control Engineering 
+积分变换与动力工程 Integral Transforms & Dynamic Engineering 
+激光电源 Laser Power Devices 
+激光焊 Laser Welding 
+激光基础 Basis of Laser 
+激光技术 Laser Technology 
+激光加工 Laser Processing 
+激光器件 Laser Devices 
+激光器件与电源 Laser Devices & Power Source 
+激光原理 Principles of Laser 
+激光原理与技术 Laser Principles & Technology 
+极限分析 Limit Analysis 
+集合论与代数结构 Set Theory & Algebraical Structure 
+技术管理 Technological Management 
+技术经济 Technological Economy 
+技术经济学 Technological Economics 
+技术市场学 Technological Marketing 
+计量经济学 Measure Economics 
+计算方法 Computational Method 
+计算机导论 Introduction to Computers 
+计算机导论与实践 Introduction to Computers & Practice 
+计算机辅助设计 CAD 
+计算机辅助设计与仿真 Computer Aided Design & Imitation 
+计算机辅助语言教学 Computer-Aided Language Teaching 
+计算机辅助制造 Computer-Aided Manufacturing 
+计算机概论 Introduction to Computers 
+计算机绘图 Computer Graphics 
+计算机基础 Basis of Computer Engineering 
+计算机接口技术 Computer Interface Technology 
+计算机接口与通讯 Computer Interface & Communication 
+计算机局域网 Regional Network of Computers 
+计算机控制 Computer Controling 
+计算机设计自动化 Automation of Computer Design 
+计算机实践 Computer Practice 
+计算机数据库 Computer Database 
+计算机算法基础 Basis of Computer Algorithm 
+计算机图形显示 Computer Graphic Demonstration 
+计算机图形学 Computer Graphics 
+计算机网络 Computer Networks 
+计算机系统结构 Computer Architecture 
+计算机语言处理 Computer Language Processing 
+计算机原理 Principle of Computer Engineering 
+计算机在化学中的应用 Application of Computer in Chemistry 
+计算机组成原理 Principles of Computer Composition 
+计算力学 Computational Mechanics 
+计算力学基础 Basis of Computational Mechanics 
+计算流体 Fluid Computation 
+继电保护新技术 New Technology of Relay Protection 
+继电保护原理 Principles of Relay Protection 
+继电保护运行 Relay-Protected Operation 
+检测技术 Measurement Technique 
+检测系统动力学 Detection System Dynamics 
+检测与控制 Detection & Controling 
+简明社会学 Concise Sociology 
+简明世界史 Brief World History 
+减振设计 Vibration Absorption Designing 
+渐近方法 Asymptotical Method 
+建筑材料 Building Materials 
+建筑初步 Elementary Architecture 
+建筑防火 Building Fire Protection 
+建筑概论 Introduction to Architecture 
+建筑构造 Architectural Construction 
+建筑结构 Architectural Structure 
+建筑结构抗震设计 Anti-quake Architectural Structure Design 
+建筑经济与企业管理 Architectural Economy & Enterprise Management 
+建筑力学 Architectural Mechanics 
+建筑名作欣赏 Appreciation of Architectural Works 
+建筑入门 Elementary Architecture 
+建筑摄影 Architectural Photographing 
+建筑设备 Architectural Equipment 
+建筑设计 Architectural Design 
+建筑施工 Construction Technology 
+建筑绘画 Architectural Drawing 
+建筑物理 Architecural Physics 
+建筑制图 Architectural Graphing 
+胶体化学 Colloid Chemistry 
+交流调速系统 Alternating Current Governor System 
+教育心理学 Pedagogic Psychology 
+接口与控制器 Interface and Controler 
+接口与通讯 Interface and Communication 
+结构程序设计 Structural Program Designing 
+结构动力学 Structural Dynamics 
+结构化学 Structural Chemistry 
+结构检验 Structural Testing 
+结构力学 Structural Mechanics 
+结构素描 Structure Sketching 
+结构塑性分析 Structural Plasticity Analysis 
+结构稳定 Stability Analysis of Structures 
+结构先进技术 Advanced Structuring Technology 
+结构优化理论 Optimal Structure Theory 
+结构优化设计 Optimal Structure Designing 
+解析几何 Analytic Geometry 
+介质波导 Medium Wave Guide 
+介质测量 Medium Measurement 
+介质光学 Medium Optics 
+金属X射线学 Metal X-Ray Analysis 
+金属材料焊接 Metal Material Welding 
+金属材料学 Metal Material Science 
+金属材料与热处理 Metal Material & Heat Treatment 
+金属腐蚀与保护 Metal Erosion & Protection 
+金属腐蚀原理 Principles of Metal Erosion 
+金属工艺学 Metal Technics 
+金属焊接性基础 Elementary Metal Weldability 
+金属焊接原理 Principles of Metal Welding 
+金属机械性能 Mechanical Property of Metal 
+金属力学性能 Metal Mechanic Property 
+金属切削机床 Metal Cutting Machine Tool 
+金属切削原理及刀具 Principles of Metal Cutting & Cutters 
+金属熔焊原理 Principles of Metal Molten Welding 
+金属熔焊原理及工艺 Principles of Metal Molten Welding & Technique 
+金属熔炼 Metal Melting 
+金属塑性成形原理 Principles of Metal Forming 
+金属物理性能 Physical Property of Metal 
+金属学 Metallography 
+金属学与热处理 Metallography & Heat Treatment 
+金属学原理 Principles of Metallography 
+金相分析 Metallographic Analysis 
+金相技术 Metallographic Techniques 
+近代光学测试技术 Modern Optical Testing Technology 
+近代光学计量技术 Modern Optical Measuring Technology 
+近代经济史 Modern History of Economics 
+近代物理实验 Lab of Modern Physics 
+近世代数 Modern Algebra 
+晶体管原理 Principles of Transistors 
+晶体光学 Crystallographic Optics 
+精密测量技术 Technology of Precision Measurement 
+精密电气测量 Precise Electric Measurement 
+精密合金 Precise Alloy 
+精密机械CAD CAD for Precision Machinery 
+精密机械课程设计 Course Design for Precision Machinery 
+精密机械零件 Precision Machinery Elements 
+精密机械设计基础 Elementary Precision Machinery Design 
+精密机械学 Precision Machinery 
+精细有机合成 Minute Organic Synthesis 
+经济地理 Economical Geography 
+经济法 Law of Economy 
+经济法学 Law of Economy 
+经济分析基础 Basis of Economic Analysis 
+经济控制论 Economical Cybernetics 
+经济社会学 Economic Sociology 
+经济新闻 Economic News 
+经济学说史 History of Economics 
+经济学原理 Principles of Economics 
+经济预测 Economic Predicting 
+经济预测与管理奖惩 Economic Predicting & Management 
+经济原理 Principles of Economy 
+经济运筹学 Economic Operation Research 
+经济增长理论 Theory of Economic Growth 
+经营管理 Operation Management 
+经营管理学 Operation Management 
+静力学 Statics 
+纠错编码 Error Correction of Coding 
+决策分析 Analysis of Policy Making 
+绝缘在线检测 Insulation Live Testing 
+军事理论 Military Theory 
+抗干扰技术 Anti-Jamming Technique 
+科技翻译 Scientific English Translation 
+科技管理 Technological Management 
+科技史 History of Science & Technology 
+科技史及新技术知识 Historry of Science & Knowledge of New Techndogy 
+科技写作 Scientific Writing 
+科技新闻 Scientific News 
+科技英语 Scientific English 
+科技英语基础 Elementary Scientific English 
+科技英语阅读 Readings of Scientific English 
+科技与社会 Science & Society 
+科学方法论 Scientific Methodology 
+科学技术史 History of Science & Technology 
+科学计量 Scientific Measurement 
+科学社会学概论 Introduction to Scientific Socialism 
+科学社会主义 Scientific Socialism 
+科学思维方法 Methods of Scinetific Thinking 
+科学学 Scientology 
+可计算性 Calculability 
+可靠性 Reliability 
+可靠性及故障诊断 Reliability & Error Diagnosis 
+可靠性技术导论 Introduction to Reliability Technology 
+可靠性数学 Reliable Mathematics 
+可靠性物理 Reliability Physics 
+可逆式机组 Reversible Machinery Group 
+可逆式水力机械 Reversible Hydraulic Machinery 
+空气调节与通风 Air Regulation & Ventilation 
+空气动力学 Aerodynamics 
+控制电机 Electrical Machines for Control 
+控制工程 Control Engineering 
+控制工程基础 Basis of Control Engineering 
+控制理论 Theory of Control 
+控制理论基础 Elementary Theory of Control 
+控制理论基础与水轮机调节 Elementary Theory of Control & Water Turbine 
+Regulat 
+控制系统设计 Control System Design 
+控制系统数字仿真 Control System Digital Imitation 
+口译 Oral Intepretation 
+口语实践 Oral Practice 
+快速阅读 Fast Reading 
+劳动工资管理 Management of Labor Wages 
+乐理 Music Theory 
+雷达原理 Principles of Radar 
+雷电静电及环境 Radar Static Electricity & Environment 
+冷冻干燥技术 Freeze Drying Technique 
+冷冻技术 Refrigeration Technique 
+冷库设计 Refrigerating House Design 
+离散数学 Discrete Mathematics 
+离心泵与轴流泵 Centrifugal Pumps & Axial Pumps 
+离心式压缩机模拟 Centrifugal Compressor Imitation 
+离心式压缩机强度 Centrifugal Compressor Intensity 
+离心式压缩机原理 Principles of Centrifugal Compressors 
+理论力学 Theoretical Mechanics 
+力热学 Mechanics & Thermology 
+力学,热学 Mechanics & Thermology 
+力学性能测试 Mechanics Performance Testing 
+两相流动和传热 Two-phase Flow & Thermal Conduction 
+量子力学 Quantum Mechanics 
+劣质煤燃烧与利用 Tinpot Coal Combustion & Use 
+零件设计 Element Design 
+领导科学 Leadership Science 
+流场数值计算及性能预测 Numerical Calculation of Flow Field 
+流态化工程 Fluidization Engineering 
+流体力学 Fluid Mechanics 
+六朝文论 Articles of Six Dynasties 
+鲁迅研究 Research on LU Xun 
+轮机概论 Introduction to Turbines 
+伦理学 Ethics 
+论文写作 Thesis Writing 
+论文指导 Thesis Supervision 
+螺杆压缩机 Spiral Lobe Compressor 
+逻辑设计 Logic Design 
+逻辑学 Logic Theory 
+马克思主义原理 Principles of Marxism 
+马列(社会学)原著选读 Selected Readings of Marx's & Lenin's Original Wor 
+马列哲学原著选读 Selected Readings of Marx's & Lenin's Original Wor 
+马列主义原理 Principles of Marxism & Leninism 
+马氏规划 Martensitic Planning 
+脉冲功率放大 Pulse Power Magnification 
+脉冲与数字电路 Pulse & Digital Circuit 
+毛泽东思想哲学研究 Research on Mao Zedong's Thinking Philosophy 
+煤粉燃烧技术及测量技术 Coal Power Combustion & Technology and Measurement 
+美国文学作品选读 Selected Readings of American Literature 
+美术粉彩 Art Powder Paint 
+美术室外建筑写生 Outdoors Architectural Sketch 
+美术素描 Art Sketch 
+美学概论 Introduction to Aesthetics 
+秘书学 Secretary Science 
+密封技术 Sealing Technology 
+免疫学 Immunity 
+敏感元件及材料 Sensors & Materials 
+明清小说研究 Research on NOVELS OF mING & Qing Dynasties 
+名篇赏析 Appreciation of Master Pieces 
+模糊数学 Fuzzy Mathematics 
+模具计算机辅助设计 Computer Aided Design of Models 
+模拟电子技术 Analog Electronics Technique 
+模拟电子技术基础 Basic Analog Electronics 
+模拟电子线路 Analog Electrical Circuitry 
+模拟集成电路 Analog Integrated Circuitry 
+模式识别 Matrix Recognition 
+模型辨识 Model Distinguish 
+磨削原理 Principle of Grinding and Cutting 
+耐腐蚀非金属材料 Erosion-Resisting Non-metallic Materials 
+内燃机测试技术 IC Engine Test Technology 
+内燃机调节 IC Engine Regulation 
+内燃机动力学 IC Engine Dynamics 
+内燃机概论 Introduction to IC Engine 
+内燃机排气净化 Purification of IC Exhaustive Gas 
+内燃机设计 IC Engine Design 
+内燃机原理 Principles of Internal-Combustion Engine 
+内燃机制造工艺学 IC Manufacturing Technology 
+能源工程 Energy Source Engineering 
+扭转振动 Torque Vibration 
+排压力波计算 Computation of Pressure Extraction Wave 
+配位化学 Coordination Chemistry 
+疲劳断裂力学 Fatigue Fracture Mechanics 
+偏微分方程 Partial Differential Equation 
+偏微分方程数值解 Numerical Solution of Partial Differential Equation 
+评报 Commentary Report 
+评论写作 Commentary Writing 
+普通化学 General Chemistry 
+普通生物学 General Biology 
+普通物理 General Physics 
+普通物理实验 Lab of General Physics 
+企业供销管理 Management of Enterprise Supply & Sales 
+企业管理 Enterprise Management 
+企业管理与技术经济 Enterprise Management & Technological Economy 
+企业经营经济学 Enterprise Management Economics 
+企业社会学 Enterprise Sociology 
+企业生产物流 Productive Physical Distribution of Enterprise 
+企业物流 Physical Distribution of Enterprise 
+气阀原理 Principles of Air Valves 
+气固两相流 Dual-Phrase Distribution of Gas % Solid 
+气体放电及应用 Gas Discharge & Application 
+气体激光器 Gas Laser Devices 
+气体制冷机 Gas Refrigerator 
+气压传动 Pneumatic Transmission 
+汽车驾驶技术 Driving Skills 
+汽轮机调节 Steam Turhine Adjustment 
+汽轮机调节与仿真 Steam Turhine Adjustment & Simulation 
+汽轮机热力特性 Steam Turbine Thermal Property 
+汽轮机原理 Principles of Steam Turbine 
+汽轮机振动 Steam Turbine Vibration 
+钎焊 Soldering 
+强电流技术 Strong Current Technology 
+青年伦理学 Ethics for Youth 
+青年社会学 Sociology for Youth 
+情报检索 Information Searches 
+全过程设计 Whole Process Design 
+燃气轮机 Steam Turbine Engines 
+燃烧理论 Theory of Combustion 
+燃烧学 Combustion 
+热处理工艺 Technology for Heating Processing 
+热处理设备 Equipment for Heating Processing 
+热处理设备设计 Design of Heat Treatment Equipment 
+热处理新工艺 New Technology of Heat Treatment 
+热处理原理 Principles of Heating Processing 
+热处理原理及工艺 Principles & Technology for Heating Processing 
+热工测量及仪表 Thermal Measurement & Meter 
+热工过程自动调节 Thermal Process Automatic Adjustment 
+热工设备 Thermal Equipment 
+热力发电厂 Thermal Power Stations 
+热力发动机 Thermal Motors 
+热力机械测试技术 Thermo-Mechanic Measurement Technique 
+热力机械测试技术课程设计 Course Design for Thermo-Mechanic Measurement 
+Technique 
+热力学 Thermodynamics 
+热力学与统计物理 Thermodynamics & Statistical Physics 
+热物理测量及实验技术 Measurements & Experiments of Thermal Science 
+热物理量测技术 Measurements of Thermal Science 
+人工智能 Artificial Intelligence 
+人和自然 Man & Nature 
+人口经济方法 Economical Method for Population 
+人体生理 Human Physiology 
+日本物流 Material Flow of Japan 
+日语阅读 Japanese Reading 
+熔焊原理及工艺 Principle & Technique of Melting and Welding 
+熔炼原理 Principle of Melting 
+容错与诊断 Tolerance & Diagnosis 
+容积式压缩机数学模型 Mathematical Model of Displacement Compressor 
+软件工程 Software Engineering 
+软件技术基础 Basis of Software Technique 
+软件开发工具与环境 Tools & Environment for Software Developing 
+弱信号检测 Testing of Feeble Signals 
+色彩 Color 
+色谱 Color Spectrum 
+摄影技巧 Techniques for Photography 
+涉外企业管理 Enterprise Administration Concerning Foreign Natio 
+社会调查的理论与方法 Theories & Methods for Social Investigation 
+社会调查方法 Methods for Social Investigation 
+社会工作 Social Work 
+社会统计分析与SYSTAT应用 Social Statistics Analysis & SYSTAT Application 
+社会统计学 Social Statistics 
+社会问题研究 Research on Social Problems 
+社会心理学 Social Psychology 
+社会学概论 Introduction to Sociololgy 
+社会学简论 Brief Introduction to Sociology 
+社会学理论专题 Current Issues in Theories of Socilolgy 
+社会学问题研究 Research on Problems of Sociology 
+社会学研究方法 Research Methods of Sociology 
+社会主义财政学 Finance of Socialism 
+社会主义各国政，经体制讨论 Discussion on Political & Economic Systems in 
+Socialism 
+审计学 Science of Auditing 
+生产管理 Administration of Manufacturing 
+生产过程计算机控制 Computer Control in Manufacturing Process 
+生产过程自动化 Water-Turbine Engine 
+生理学 Physiology 
+生命科学与无机化学 Life Science and Inorganic Chemistry 
+生物工程产品 Bio-engineering Products 
+生物工程导论 Introduction to Bio-engineering 
+生物化学 Biochemistry 
+生物化学工程 Biochemical Engineering 
+生物化学及实验 Biochemistry Experiment 
+生物检测技术 Measurement for Biotechnique 
+生物控制论 Biocybernetics 
+生物流变学 Biorheology 
+生物物理 Biophysics 
+生物学专题 Currents Issues in Biology 
+生物医学超声学 Biomedical Supersonics 
+失效分析 Invalidation Analysis 
+诗歌美学 Aesthetics of Poetry 
+时间序列 Time Sequence 
+实变函数 Functions of Real Variable 
+实验分析 Experimental Analysis 
+实验力学 Experimental Mechanics 
+实验力学基础 Basis of Experimental Mechanics 
+实验流体 Experimental Flowing Object 
+实验应力分析 Analysis of Experimental Stress 
+世界近现代经济史 Modern History of World Economy 
+世界近现代史 Modern History of the World 
+世界文化史 History of World Culture 
+世界政治经济与国际关系 World Politic Ecomony &International Relationship 
+适应控制系统 Adaption Control System 
+市场学 Science of Market 
+市场研究 Research on Market 
+市场预测 Market Predicting 
+输入输出设计原理 Principle of Input and Output Designing 
+书法 Handwriting 
+数据结构 Data Structure 
+数据库概论 Introduction to Database 
+数据库基础 Basis of Database 
+数据库技术 Technique of Database 
+数据库设计与分析 Design & Analysis of Database 
+数据库系统原理 Principles of Database System 
+数据库应用 Application of Database 
+数据库原理及应用 Principle & Application of Database 
+数控机床 Digit Control Machine Tool 
+数控技术 Digit Control Technique 
